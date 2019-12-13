@@ -8,3 +8,6 @@ This repository contains files
 2. main.py:which contains the code of the real-time object detection code using the yolo algorithm.
 3. yolo_object_detection.py:which contains the yolo algorithm.
 4. yolov3.cgf:which contains the configuration of the yolo algorithm.
+5. databasecreate.py will let you create a database.
+# Note
+Download yolov3.weights file and paste it in this folder.
